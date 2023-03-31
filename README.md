@@ -30,12 +30,5 @@ display(temp);
 
 Flowchart
 
-Image
+![The-flow-chart-of-voltage-calculation](https://user-images.githubusercontent.com/129486990/229060052-6a635361-a07a-4a84-a1bd-2c3bda4906df.png)
 
-Insights
-Default charts
-Status chart
-Custom charts
-Status chart
-This chart shows the current status for the total number of items in your project.
-Filter by keyword or by field
