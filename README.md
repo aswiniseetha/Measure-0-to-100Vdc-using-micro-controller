@@ -2,7 +2,7 @@
 In this project we will measure the DC voltage (0-100V) using PIC Analog to Digital Converter.
 
 
-Digital Voltmeters are most common devices for Embedded and Hardware Engineers and are used on daily purpose for measuring voltage values in their circuits. In this project i will show you how to make digital voltmeter using Microchip PIC micro-controller and then display voltage values on multiplexed seven segment display.
+Digital Voltmeters are most common devices for Embedded and Hardware Engineers and are used on daily purpose for measuring voltage values in their circuits. In this project i will show you how to make digital voltmeter using Microchip PIC micro-controller and then display voltage values on multiplexed seven segment display. As PIC is a 5V device and directly connecting such a high voltage (100V) on the micro-controller, will definitely damage the micro-controller. So to overcome this situation we have to scale down the Maximum Voltage value which is 100V to the Maximum Voltage value which the micro-controller can sense, in this case it is 5V.
 
 Algorithm for measurement
 
